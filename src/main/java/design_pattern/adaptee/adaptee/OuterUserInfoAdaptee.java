@@ -1,20 +1,20 @@
-package design_pattern.adaptee;
+package design_pattern.adaptee.adaptee;
 
 import java.util.Map;
 
 /**
  * @author
- * °ÑOuterUser°ü×°³ÉUserInfo
+ * ï¿½ï¿½OuterUserï¿½ï¿½×°ï¿½ï¿½UserInfo
  */
 
 public class OuterUserInfoAdaptee extends OuterUser implements IUserInfo {
 
-    private Map baseInfo = super.getUserBaseInfo(); //Ô±¹¤µÄ»ù±¾ÐÅÏ¢
-    private Map homeInfo = super.getUserHomeInfo(); //Ô±¹¤µÄ¼ÒÍ¥ ÐÅÏ¢
-    private Map officeInfo = super.getUserOfficeInfo(); //¹¤×÷ÐÅÏ¢
+    private Map baseInfo = super.getUserBaseInfo(); //Ô±ï¿½ï¿½ï¿½Ä»ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢
+    private Map homeInfo = super.getUserHomeInfo(); //Ô±ï¿½ï¿½ï¿½Ä¼ï¿½Í¥ ï¿½ï¿½Ï¢
+    private Map officeInfo = super.getUserOfficeInfo(); //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢
 
     /*
-     * ¼ÒÍ¥µØÖ·
+     * ï¿½ï¿½Í¥ï¿½ï¿½Ö·
      */
     public String getHomeAddress() {
         String homeAddress = (String) this.homeInfo.get("homeAddress");
@@ -23,7 +23,7 @@ public class OuterUserInfoAdaptee extends OuterUser implements IUserInfo {
     }
 
     /*
-     * ¼ÒÍ¥µç»°ºÅÂë
+     * ï¿½ï¿½Í¥ï¿½ç»°ï¿½ï¿½ï¿½ï¿½
      */
     public String getHomeTelNumber() {
         String homeTelNumber = (String) this.homeInfo.get("homeTelNumber");
@@ -32,7 +32,7 @@ public class OuterUserInfoAdaptee extends OuterUser implements IUserInfo {
     }
 
     /*
-     *Ö°Î»ÐÅÏ¢
+     *Ö°Î»ï¿½ï¿½Ï¢
      */
     public String getJobPosition() {
         String jobPosition = (String) this.officeInfo.get("jobPosition");
@@ -41,7 +41,7 @@ public class OuterUserInfoAdaptee extends OuterUser implements IUserInfo {
     }
 
     /*
-     * ÊÖ»úºÅÂë
+     * ï¿½Ö»ï¿½ï¿½ï¿½ï¿½ï¿½
      */
     public String getMobileNumber() {
         String mobileNumber = (String) this.baseInfo.get("mobileNumber");
@@ -50,7 +50,7 @@ public class OuterUserInfoAdaptee extends OuterUser implements IUserInfo {
     }
 
     /*
-     * °ì¹«µç»°
+     * ï¿½ì¹«ï¿½ç»°
      */
     public String getOfficeTelNumber() {
         String officeTelNumber = (String) this.officeInfo.get("officeTelNumber");
@@ -59,7 +59,7 @@ public class OuterUserInfoAdaptee extends OuterUser implements IUserInfo {
     }
 
     /*
-     * Ô±¹¤µÄÃû³Æ
+     * Ô±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
      */
     public String getUserName() {
         String userName = (String) this.baseInfo.get("userName");
