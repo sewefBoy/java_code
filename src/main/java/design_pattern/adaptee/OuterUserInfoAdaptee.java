@@ -1,4 +1,4 @@
-package design_pattern.adaptee.adaptee;
+package design_pattern.adaptee;
 
 import java.util.Map;
 

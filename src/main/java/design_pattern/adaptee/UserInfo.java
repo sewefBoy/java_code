@@ -1,4 +1,4 @@
-package design_pattern.adaptee.adaptee;
+package design_pattern.adaptee;
 
 /**
  * @author cbf4Life cbf4life@126.com

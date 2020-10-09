@@ -1,4 +1,4 @@
-package design_pattern.adaptee.observer;
+package design_pattern.observer;
 
 //抽象观察者
 interface Observer

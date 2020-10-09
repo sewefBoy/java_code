@@ -1,6 +1,6 @@
-package design_pattern.adaptee.observer;
+package design_pattern.observer;
 
-public class ObserverPattern
+public class ObserverPatternTest
 {
     public static void main(String[] args)
     {

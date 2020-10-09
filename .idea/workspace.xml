@@ -1,115 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bebbb91c-16b7-4e49-b58c-b0aac94af769" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_webjars_jquery_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InternetArchitect-master/15二期springboot/第二节课/springboot_web/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/hyx_netty_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/src/main/java/com/cn/hyx_netty/discard/DiscardClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/src/main/java/com/cn/hyx_netty/discard/DiscardClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/src/main/java/com/cn/hyx_netty/discard/DiscardServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hyx_netty_project/src/main/java/com/cn/hyx_netty/discard/DiscardServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/IOuterUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/IUserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/OuterUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteObserver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteObserver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ObserverPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot_double_datasource/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot_web_hyx/src/main/java/com/hyx/servlet/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/java_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer2/App1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer2/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IO/SplitFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IO/SplitFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/IOuterUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/IUserInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUserInfoAdaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/OuterUserInfoAdaptee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/IOuterUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/IOuterUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/IUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/IUserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/OuterUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/OuterUserInfoAdaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUserInfoAdaptee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteObserver1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer/ConcreteObserver1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteObserver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer/ConcreteObserver2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer/ConcreteSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ObserverPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer/ObserverPatternTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IO/ByteArrayStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IO/ByteArrayStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IO/ByteDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IO/ByteDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IO/CharDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IO/CharDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IO/FileStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IO/FileStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IO/IoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IO/IoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IO/ObjectStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IO/ObjectStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java_code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/adaptee/IOuterUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/adaptee/IUserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/adaptee/OuterUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/adaptee/OuterUserInfoAdaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/adaptee/UserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/observer/ConcreteObserver1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/observer/ConcreteObserver2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/observer/ConcreteSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/observer/ObserverPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis/test/MyBatisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis/test/MyBatisTest.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,40 +94,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="java_code" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/UserInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/OuterUserInfoAdaptee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/Recursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -218,63 +147,6 @@
       <GitPushTagMode />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/IO/FileInputStreamTest11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thread/T03_Sleep_Yield_Join.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thread/test/shangji1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thread/test/ServletThread.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/IO/FileStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IO/IoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gcexcel/MyGcExcel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/ClassA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/aa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/T011_ClassReloading1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Hello.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ext/Hello.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/T006_MSBClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/OOMTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/stackOOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/MetadataOOMTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/StackOOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/HeapOOM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/equals_hashcode/ConflictHashCodeTest1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/equals_hashcode/ConflictHashCodeTest2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/equals_hashcode/NormalHashCodeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/Hello.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/insertSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/aa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/SortArrExistNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/FindTowNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/aa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/aa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/UserInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/IOuterUser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUserInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/IUserInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUserInfoAdaptee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thread/CountDownLatchTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IO/subStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IO/SplitFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ObserverPattern.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteSubject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteObserver1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteObserver2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/Recursion.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -284,41 +156,10 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="1.7" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
-    <option name="enabledProfiles">
-      <list>
-        <option value="jdk-1.8" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="java_code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="java_code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="java_code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.7" />
@@ -326,60 +167,13 @@
   <component name="NamedScopeManager">
     <scope name="Libary Classes +include" pattern="" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="515" />
-    <option name="y" value="65" />
-    <option name="width" value="1330" />
-    <option name="height" value="842" />
-  </component>
+  <component name="ProjectId" id="1icbfWSHbP4p30bbxcQw2rsPDSJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -417,25 +211,13 @@
       <recent name="D:\git\java_code\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Recursion">
-    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.CountDownLatchTest" />
+  <component name="RunManager" selected="Application.ObserverPatternTest">
+    <configuration name="ObserverPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.adaptee.observer.ObserverPattern" />
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="design_pattern.adaptee.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -443,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.adaptee.observer.ObserverPattern" />
+    <configuration name="ObserverPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.observer.ObserverPatternTest" />
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.adaptee.observer.*" />
+          <option name="PATTERN" value="design_pattern.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -482,13 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="subStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.subStream" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.observer2.Test" />
       <module name="java_code" />
-      <option name="VM_PARAMETERS" value="-Xms10g -Xmx10g" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IO.*" />
+          <option name="PATTERN" value="design_pattern.observer2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -497,19 +278,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountDownLatchTest" />
       <item itemvalue="Application.SplitFile" />
-      <item itemvalue="Application.subStream" />
       <item itemvalue="Application.ObserverPattern" />
       <item itemvalue="Application.Recursion" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ObserverPatternTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverPatternTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.ObserverPattern" />
         <item itemvalue="Application.SplitFile" />
-        <item itemvalue="Application.subStream" />
-        <item itemvalue="Application.CountDownLatchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -585,6 +366,7 @@
       <workItem from="1592040480748" duration="193000" />
       <workItem from="1592040781949" duration="103000" />
       <workItem from="1592272295608" duration="593000" />
+      <workItem from="1602209933014" duration="1013000" />
     </task>
     <servers />
   </component>
@@ -620,9 +402,6 @@
       <configuration name="MyBatisTest.test01" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214917000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -632,100 +411,83 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="515" y="65" width="1330" height="842" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6808036" visible="true" weight="0.24173228" />
-      <window_info id="Structure" order="1" sideWeight="0.31919643" side_tool="true" visible="true" weight="0.24173228" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5694143" side_tool="true" weight="0.20202559" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.36723164" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4175705" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.26417372" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3293124" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.22885032" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.3286334" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.22867803" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.31417322" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
-      <window_info anchor="right" id="jclasslib" order="10" weight="0.32995737" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1602210591462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602210591462" />
+    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1602210591461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602210591461" />
+    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1602210591461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602210591461" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1602210591461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602210591461" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$USER_HOME$/Desktop/报表引擎/20191230光大/engine.tar.file/engine/engine/lib/bi-index-comp-1.2.0-SNAPSHOT.jar!/com/yuchengtech/index/engine/dao/TranswarpDao.class</url>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/user/.m2/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/session/SqlSessionManager.class</url>
+          <url>jar://$PROJECT_DIR$/../../user/.m2/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/session/SqlSessionManager.class</url>
           <line>95</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/user/.m2/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.class</url>
+          <url>jar://$PROJECT_DIR$/../../user/.m2/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.class</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/user/.m2/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/session/SqlSessionManager.class</url>
+          <url>jar://$PROJECT_DIR$/../../user/.m2/repository/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar!/org/apache/ibatis/session/SqlSessionManager.class</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/mybatis/test/MyBatisTest.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/user/.m2/repository/com/grapecity/documents/gcexcel/3.0.0/gcexcel-3.0.0.jar!/com/grapecity/documents/excel/Workbook.class</url>
+          <url>jar://$PROJECT_DIR$/../../user/.m2/repository/com/grapecity/documents/gcexcel/3.0.0/gcexcel-3.0.0.jar!/com/grapecity/documents/excel/Workbook.class</url>
           <line>1275</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/user/.m2/repository/com/grapecity/documents/gcexcel/3.0.0/gcexcel-3.0.0.jar!/com/grapecity/documents/excel/Workbook.class</url>
+          <url>jar://$PROJECT_DIR$/../../user/.m2/repository/com/grapecity/documents/gcexcel/3.0.0/gcexcel-3.0.0.jar!/com/grapecity/documents/excel/Workbook.class</url>
           <line>1276</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/user/.m2/repository/com/grapecity/documents/gcexcel/3.0.0/gcexcel-3.0.0.jar!/com/grapecity/documents/excel/Workbook.class</url>
+          <url>jar://$PROJECT_DIR$/../../user/.m2/repository/com/grapecity/documents/gcexcel/3.0.0/gcexcel-3.0.0.jar!/com/grapecity/documents/excel/Workbook.class</url>
           <line>1277</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Hou Program/Java/jdk1.7.0_67/src.zip!/java/util/HashMap.java</url>
           <line>589</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
@@ -753,395 +515,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/Desktop/bi-index-console-admin-1.4.3-SNAPSHOT.jar!/BOOT-INF/classes/config/application-dev.yml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/aa.java" />
-    <entry file="jar://$USER_HOME$/Desktop/bi-index-console-admin-1.4.3-SNAPSHOT.jar!/BOOT-INF/classes/config/application-prod.yml" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.7.0_67/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13900">
-          <caret line="589" column="17" selection-start-line="589" selection-start-column="16" selection-end-line="589" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/T01_WhatIsThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/T02_HowToCreateThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/T03_Sleep_Yield_Join.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/pc3/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/pc3/Goods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/pc3/Producter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/pc3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="212" column="25" selection-start-line="212" selection-start-column="25" selection-end-line="212" selection-end-column="25" />
-          <folding>
-            <element signature="e#6849#6850#0" expanded="true" />
-            <element signature="e#6907#6908#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="215" column="21" lean-forward="true" selection-start-line="215" selection-start-column="19" selection-end-line="215" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Semaphore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="228" column="24" selection-start-line="228" selection-start-column="24" selection-end-line="228" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#28143#0" expanded="true" />
-            <element signature="e#8009#8010#0" expanded="true" />
-            <element signature="e#8073#8074#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="1302" column="19" selection-start-line="1302" selection-start-column="19" selection-end-line="1302" selection-end-column="19" />
-          <folding>
-            <element signature="e#22675#22676#0" expanded="true" />
-            <element signature="e#22703#22704#0" expanded="true" />
-            <element signature="e#41392#41393#0" expanded="true" />
-            <element signature="e#41449#41450#0" expanded="true" />
-            <element signature="e#44444#44445#0" expanded="true" />
-            <element signature="e#44501#44502#0" expanded="true" />
-            <element signature="e#45599#45600#0" expanded="true" />
-            <element signature="e#45656#45657#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="227" column="28" lean-forward="true" selection-start-line="227" selection-start-column="28" selection-end-line="227" selection-end-column="28" />
-          <folding>
-            <element signature="e#5391#5392#0" expanded="true" />
-            <element signature="e#5448#5449#0" expanded="true" />
-            <element signature="e#9899#9900#0" expanded="true" />
-            <element signature="e#9936#9937#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="366" column="49" selection-start-line="366" selection-start-column="37" selection-end-line="366" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="307" column="48" selection-start-line="307" selection-start-column="35" selection-end-line="307" selection-end-column="48" />
-          <folding>
-            <element signature="e#7765#7766#0" expanded="true" />
-            <element signature="e#7802#7803#0" expanded="true" />
-            <element signature="e#8068#8069#0" expanded="true" />
-            <element signature="e#8137#8138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="2559" lean-forward="true" selection-start-line="2559" selection-end-line="2559" />
-          <folding>
-            <element signature="e#101602#101603#0" expanded="true" />
-            <element signature="e#101649#101650#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/IoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/FileStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/CharDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/RandomAccessFileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/ObjectStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/CountDownLatchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/ByteDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/ByteArrayStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/subStream.java" />
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/nio/charset/Charset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8148">
-          <caret line="271" column="25" selection-start-line="271" selection-start-column="15" selection-end-line="271" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="513" column="34" selection-start-line="513" selection-start-column="34" selection-end-line="513" selection-end-column="34" />
-          <folding>
-            <element signature="e#18781#18782#0" expanded="true" />
-            <element signature="e#18834#18835#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/io/WinNTFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="529" column="27" selection-start-line="529" selection-start-column="27" selection-end-line="529" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="975" lean-forward="true" selection-start-line="975" selection-end-line="975" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/SplitFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/io/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3000">
-          <caret line="143" column="34" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteObserver1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/IOuterUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/IUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/OuterUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ObserverPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/observer/ConcreteObserver2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/adaptee/adaptee/OuterUserInfoAdaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
