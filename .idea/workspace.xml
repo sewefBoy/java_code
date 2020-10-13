@@ -32,45 +32,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bebbb91c-16b7-4e49-b58c-b0aac94af769" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/0042251622103a8025188079c9a4ed264c8e3e87" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03f0ceeba050e28f2ab5befe1926918a79b9b3f6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a0022981aac39bd61c723f83abcac3c09a53f86" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d82c63dd8d7c9f84bdf6da8c6fd0545e911d09e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eec065f69f251d0611fe3832d40c3f6f4049277" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4691494e36e8f0dfaa309343eb92fa1d8a516fc0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/478db83145dea946941ade85558a606d30ac516e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/575c53a6164741bd9a92249f74132b2c36709510" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6319e3988b3da799c255df1bd46332357de9868b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7ca101f6074a6a84975b6560a6348e1405c10800" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a963af2a5c5ae4b71745fba6bfbc00ccb6be4f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3d9186d501123533fc73dc821f7310525bb3859" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1d08539fe1f98bc53fa6fd42b5ab81f6ac0c797" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7a41ebe9ee25b8e1fe8459012ef9d05b7258e85" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2f93d4a76c17c4e38cbe0a63485b8c18e771311" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbe1fe2f15961cc486e6a0925657b27cb834b7fe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5e85575b30ef303d5a20b93f143e94a517c58ac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/SelectSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/data_structure/SelectSort1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/IOuterUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/IUserInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/OuterUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/OuterUserInfoAdaptee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/adaptee/UserInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer/ConcreteObserver1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer/ConcreteObserver2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer/ConcreteSubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer/Observer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer/ObserverPatternTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer/Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer2/App1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer2/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/design_pattern/observer2/WeatherData.class" afterDir="false" />
+    <list default="true" id="bebbb91c-16b7-4e49-b58c-b0aac94af769" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/BinarySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/SAOOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java_code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/SelectSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/SelectSort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_structure/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure/SelectSort1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_structure/SelectSort1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -231,13 +200,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectSort1">
-    <configuration name="ObserverPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.observer.ObserverPatternTest" />
+  <component name="RunManager" selected="Application.BinarySort">
+    <configuration name="BinarySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.BinarySort" />
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.observer.*" />
+          <option name="PATTERN" value="data_structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,8 +214,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.Recursion" />
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.InsertSort" />
+      <module name="java_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SAOOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.SAOOperation" />
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
@@ -284,33 +266,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.observer2.Test" />
-      <module name="java_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="design_pattern.observer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Recursion" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.ObserverPatternTest" />
       <item itemvalue="Application.SelectSort" />
       <item itemvalue="Application.SelectSort1" />
+      <item itemvalue="Application.SAOOperation" />
+      <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.BinarySort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySort" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SAOOperation" />
         <item itemvalue="Application.SelectSort1" />
         <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.ObserverPatternTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +357,7 @@
       <workItem from="1592272295608" duration="593000" />
       <workItem from="1602209933014" duration="2237000" />
       <workItem from="1602498127757" duration="1782000" />
-      <workItem from="1602553868435" duration="899000" />
+      <workItem from="1602553868435" duration="13477000" />
     </task>
     <task id="LOCAL-00001" summary="增加观察者模式">
       <created>1602211304147</created>
@@ -397,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602211304147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1602554860537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602554860537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -418,6 +394,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="193" />
+                  <entry key="3" value="192" />
+                </map>
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -505,25 +487,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>br.read()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>br.read(cbuf)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>var8</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
