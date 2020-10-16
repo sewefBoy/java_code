@@ -32,14 +32,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bebbb91c-16b7-4e49-b58c-b0aac94af769" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/BinarySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/SAOOperation.java" afterDir="false" />
+    <list default="true" id="bebbb91c-16b7-4e49-b58c-b0aac94af769" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/SortedSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/ValidBrackets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/SelectSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/SelectSort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data_structure/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_structure/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data_structure/SelectSort1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_structure/SelectSort1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -200,9 +196,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySort">
+  <component name="RunManager" selected="Application.ValidBrackets">
     <configuration name="BinarySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure.BinarySort" />
+      <module name="java_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindRepeatNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.FindRepeatNumber" />
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
@@ -227,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SAOOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.SAOOperation" />
+    <configuration name="SortedSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.zuoteacher.SortedSquares" />
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.*" />
+          <option name="PATTERN" value="data_structure.zuoteacher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,25 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.SelectSort" />
+    <configuration name="ValidBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.zuoteacher.ValidBrackets" />
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.SelectSort1" />
-      <module name="java_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.*" />
+          <option name="PATTERN" value="data_structure.zuoteacher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SelectSort" />
-      <item itemvalue="Application.SelectSort1" />
-      <item itemvalue="Application.SAOOperation" />
       <item itemvalue="Application.InsertSort" />
       <item itemvalue="Application.BinarySort" />
+      <item itemvalue="Application.FindRepeatNumber" />
+      <item itemvalue="Application.SortedSquares" />
+      <item itemvalue="Application.ValidBrackets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidBrackets" />
+        <item itemvalue="Application.SortedSquares" />
+        <item itemvalue="Application.FindRepeatNumber" />
         <item itemvalue="Application.BinarySort" />
         <item itemvalue="Application.InsertSort" />
-        <item itemvalue="Application.SAOOperation" />
-        <item itemvalue="Application.SelectSort1" />
-        <item itemvalue="Application.SelectSort" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +353,9 @@
       <workItem from="1592272295608" duration="593000" />
       <workItem from="1602209933014" duration="2237000" />
       <workItem from="1602498127757" duration="1782000" />
-      <workItem from="1602553868435" duration="13477000" />
+      <workItem from="1602553868435" duration="13734000" />
+      <workItem from="1602664331774" duration="1971000" />
+      <workItem from="1602836741479" duration="7982000" />
     </task>
     <task id="LOCAL-00001" summary="增加观察者模式">
       <created>1602211304147</created>
@@ -373,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602554860537</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1602572730542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602572730542</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
