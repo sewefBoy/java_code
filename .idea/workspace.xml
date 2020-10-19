@@ -32,9 +32,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bebbb91c-16b7-4e49-b58c-b0aac94af769" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/SortedSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/ValidBrackets.java" afterDir="false" />
+    <list default="true" id="bebbb91c-16b7-4e49-b58c-b0aac94af769" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/BackspaceCompare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -196,7 +195,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidBrackets">
+  <component name="RunManager" selected="Application.BackspaceCompare">
+    <configuration name="BackspaceCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.zuoteacher.BackspaceCompare" />
+      <module name="java_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.zuoteacher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinarySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure.BinarySort" />
       <module name="java_code" />
@@ -212,19 +224,6 @@
     </configuration>
     <configuration name="FindRepeatNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure.FindRepeatNumber" />
-      <module name="java_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.InsertSort" />
       <module name="java_code" />
       <extension name="coverage">
         <pattern>
@@ -263,19 +262,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InsertSort" />
       <item itemvalue="Application.BinarySort" />
       <item itemvalue="Application.FindRepeatNumber" />
       <item itemvalue="Application.SortedSquares" />
       <item itemvalue="Application.ValidBrackets" />
+      <item itemvalue="Application.BackspaceCompare" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BackspaceCompare" />
         <item itemvalue="Application.ValidBrackets" />
         <item itemvalue="Application.SortedSquares" />
         <item itemvalue="Application.FindRepeatNumber" />
         <item itemvalue="Application.BinarySort" />
-        <item itemvalue="Application.InsertSort" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +354,8 @@
       <workItem from="1602498127757" duration="1782000" />
       <workItem from="1602553868435" duration="13734000" />
       <workItem from="1602664331774" duration="1971000" />
-      <workItem from="1602836741479" duration="7982000" />
+      <workItem from="1602836741479" duration="8238000" />
+      <workItem from="1603071947058" duration="1543000" />
     </task>
     <task id="LOCAL-00001" summary="增加观察者模式">
       <created>1602211304147</created>
@@ -378,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602572730542</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1602844772235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602844772235</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
