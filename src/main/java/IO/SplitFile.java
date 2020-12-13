@@ -6,21 +6,21 @@ import java.util.ArrayList;
 public class SplitFile {
     public static void main(String[] args) throws IOException {
 
-        //è·å–è·¯å¾„
-        File file = new File("E:/11/node02.log");
+        //»ñÈ¡Â·¾¶
+        File file = new File("E:\\11\\node.log");
         //File outfile = new File("E://20200528.log");
         System.out.println(file);
-        //åˆ¤æ–­æ–‡ä»¶æ˜¯å¦å­˜åœ¨ã€å¹¶ä¸”æœ‰å†…å®¹
+        //ÅĞ¶ÏÎÄ¼şÊÇ·ñ´æÔÚ¡¢²¢ÇÒÓĞÄÚÈİ
         if(file.exists() && !(file.exists() && file.length() == 0)) {
-            System.out.println("æ–‡ä»¶å­˜åœ¨å¹¶ä¸”æœ‰å†…å®¹");
+            System.out.println("ÎÄ¼ş´æÔÚ²¢ÇÒÓĞÄÚÈİ");
 
             String str = null;
             try {
-                //BufferedReaderæ˜¯å¯ä»¥æŒ‰è¡Œè¯»å–æ–‡ä»¶
+                //BufferedReaderÊÇ¿ÉÒÔ°´ĞĞ¶ÁÈ¡ÎÄ¼ş
                 FileInputStream inputStream = new FileInputStream(file);
                 BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
 
-                File outfile = new File("E:/11/node/node0.log");
+                File outfile = new File("E:\\11\\node\\node.log");
                 FileOutputStream fileOutputStream = new FileOutputStream(outfile);
                 OutputStreamWriter outputStreamWriter = new OutputStreamWriter(fileOutputStream);
                 BufferedWriter bw = new BufferedWriter(outputStreamWriter);
@@ -29,9 +29,9 @@ public class SplitFile {
                 int i = 0;
                 while((str = bufferedReader.readLine()) != null){
                     i++;
-                    if(i == 10000){
+                    if(i == 30000){
                         b++;
-                        outfile = new File("E:/11/node/node"+b+".log");
+                        outfile = new File("E:\\11\\node\\node"+b+".log");
                         fileOutputStream = new FileOutputStream(outfile);
                         outputStreamWriter = new OutputStreamWriter(fileOutputStream);
                         bw = new BufferedWriter(outputStreamWriter);
@@ -47,13 +47,13 @@ public class SplitFile {
                 bw.close();
                 outputStreamWriter.close();
                 fileOutputStream.close();
-                System.out.println("åˆ‡å‰²ç»“æŸ");
+                System.out.println("ÇĞ¸î½áÊø");
                 //file.delete();
             }catch (Exception e) {
                 e.printStackTrace();
             }
         }else {
-            System.out.println("æ–‡ä»¶ä¸å­˜åœ¨ã€æˆ–è€…æ–‡ä»¶æ— å†…å®¹");
+            System.out.println("ÎÄ¼ş²»´æÔÚ¡¢»òÕßÎÄ¼şÎŞÄÚÈİ");
 
         }
 
