@@ -6,8 +6,11 @@ class Test{
         LinkedNode node3 = new LinkedNode("node3", node4);
         LinkedNode node2 = new LinkedNode("node2", node3);
         LinkedNode node1 = new LinkedNode("node1", node2);
-        ReverseLinkedList.reverse(node1);
-        System.out.println(node1.getValue());
+        System.out.println("反转前：");
+        ReverseLinkedList.printNode(node1);
+        LinkedNode node = ReverseLinkedList.reverse(node1);
+        System.out.println("反转后：");
+        ReverseLinkedList.printNode(node);
     }
 }
 
@@ -21,12 +24,19 @@ public class ReverseLinkedList {
         LinkedNode next = null;
         while(head != null){
             next = head.getNextNode();
+            head.setNextNode(pre);
             pre = head;
             head = next;
         }
         return pre;
     }
 
+    public static void printNode(LinkedNode head){
+        while(head != null){
+            System.out.println("====="+head.getValue());
+            head = head.getNextNode();
+        }
+    }
 }
 
 

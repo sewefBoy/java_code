@@ -85,10 +85,28 @@
       <change afterPath="$PROJECT_DIR$/../hyx_netty_project/src/main/java/com/cn/hyx_netty/discard/DiscardClientHandler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hyx_netty_project/src/main/java/com/cn/hyx_netty/discard/DiscardServer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hyx_netty_project/src/main/java/com/cn/hyx_netty/discard/DiscardServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/FindTowNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/SortArrExistNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/IOuterUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/IUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/OuterUserInfoAdaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adaptee/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equals_hashcode/ConflictHashCodeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equals_hashcode/ConflictHashCodeTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equals_hashcode/NormalHashCodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/HeapOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/MetadataOOMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/StackOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot_double_datasource/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springboot_web_hyx/src/main/java/com/hyx/servlet/MyServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/ReverseLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -120,39 +138,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/SortArrExistNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/FindTowNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-              <folding>
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="325">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -320,7 +310,7 @@
   <component name="NamedScopeManager">
     <scope name="Libary Classes +include" pattern="" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="235" />
     <option name="y" value="39" />
     <option name="width" value="1940" />
@@ -367,6 +357,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="ReverseLinkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -589,7 +588,7 @@
       <workItem from="1593408786435" duration="351000" />
       <workItem from="1593758147138" duration="1349000" />
       <workItem from="1594116528639" duration="578000" />
-      <workItem from="1607856163345" duration="2286000" />
+      <workItem from="1607856163345" duration="3545000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1607860441984</created>
@@ -598,7 +597,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607860441984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1607861686395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607861686395</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -634,7 +640,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234032000" />
+    <option name="totallyTimeSpent" value="235291000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -646,10 +652,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="235" y="39" width="1940" height="1050" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6746575" visible="true" weight="0.16542554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6746575" visible="true" weight="0.16577825" />
       <window_info id="Structure" order="1" sideWeight="0.32534248" side_tool="true" weight="0.24946696" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -658,7 +664,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5694143" side_tool="true" weight="0.20202559" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.36659437" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.36659437" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4175705" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -777,13 +783,6 @@
           <line>589</line>
           <properties />
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <condition expression="value.length ==1" language="JAVA" />
-          <url>jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/lang/String.java</url>
-          <line>1466</line>
-          <properties />
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1157,17 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="1478" column="27" lean-forward="true" selection-start-line="1478" selection-start-column="27" selection-end-line="1478" selection-end-column="27" />
-          <folding>
-            <element signature="e#18781#18782#0" expanded="true" />
-            <element signature="e#18834#18835#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1188,14 +1176,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/SortArrExistNum.java">
+    <entry file="jar://C:/Hou Program/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="158">
+          <caret line="1466" column="39" selection-start-line="1466" selection-start-column="39" selection-end-line="1466" selection-end-column="39" />
+          <folding>
+            <element signature="e#18781#18782#0" expanded="true" />
+            <element signature="e#18834#18835#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/FindTowNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/zuoteacher/SortArrExistNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1204,18 +1203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="325">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="15" />
         </state>
       </provider>
     </entry>
