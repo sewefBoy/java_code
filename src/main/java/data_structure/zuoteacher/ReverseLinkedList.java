@@ -1,5 +1,8 @@
-package data_structure;
+package data_structure.zuoteacher;
 
+/**
+ * 单链表反转
+ */
 class Test{
     public static void main(String[] args) {
         LinkedNode node4 = new LinkedNode("node4", null);
@@ -24,8 +27,10 @@ public class ReverseLinkedList {
         LinkedNode next = null;
         while(head != null){
             next = head.getNextNode();
+
             head.setNextNode(pre);
             pre = head;
+
             head = next;
         }
         return pre;
